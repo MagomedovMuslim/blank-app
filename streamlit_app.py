@@ -7,5 +7,5 @@ st.write(
 
 import requests
 
-r = requests.get('https://api.github.com', auth=('user', 'pass'))
+requests.get(https://iss.moex.com/iss/engines/stock/markets/bonds/boards/TQCB/trades.html?securities=RU000A1097X8)
 
